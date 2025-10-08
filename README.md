@@ -154,9 +154,9 @@ O menu será exibido no console com as opções do sistema.
 
 ## 👨‍💻 Autores
 
-**Guilherme **
+**Guilherme**
 **Marcelo**
-Pedro**
+**Pedro**
 
 Projeto desenvolvido para a disciplina de **Programação Orientada a Objetos**  
 
