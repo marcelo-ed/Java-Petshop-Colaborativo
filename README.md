@@ -170,8 +170,8 @@ Escolha uma opção:
 ## 👨‍💻 Autores
 
 - **Guilherme Eduardo Rodrigues Krinski**  
-- **Marcelo**  
-- **Santana**  
+- **Marcelo Eduardo Silva e Santos Lopes**  
+- **Pedro Saldanha Santana**  
 
 Projeto desenvolvido para a disciplina de **Programação Orientada a Objetos**  
 
