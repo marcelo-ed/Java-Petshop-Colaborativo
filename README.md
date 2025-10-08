@@ -174,7 +174,6 @@ Escolha uma opção:
 - **Santana**  
 
 Projeto desenvolvido para a disciplina de **Programação Orientada a Objetos**  
-Professor Avaliador: *(inserir nome, se desejar)*  
 
 ---
 
@@ -182,7 +181,5 @@ Professor Avaliador: *(inserir nome, se desejar)*
 
 Este projeto demonstra com clareza os conceitos de **Programação Orientada a Objetos** aplicados na prática.  
 A aplicação utiliza **herança, abstração, polimorfismo e encapsulamento**, além de respeitar **regras de negócio reais** e boas práticas de desenvolvimento em Java.  
-
-O sistema é funcional, validado e pronto para apresentação, garantindo o desempenho máximo na avaliação.  
 
 ---
